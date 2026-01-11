@@ -18,7 +18,6 @@ Design and implement a **production-grade batch data pipeline** that ingests raw
 
 ## Technology Constraints
 
-* Development environment must be **macOS-compatible**
 * Use **open-source tools**
 * Pipeline must be **orchestrated**
 * Data warehouse must support **historical tracking**
